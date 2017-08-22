@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #B9090B;
+}
+
+.poster-img{
+  border: 2px solid black;
+}
+
+.film-container{
+  background-color: #B9090B;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #F6F6F6;
+}
